@@ -30,7 +30,7 @@ types-aiofiles==23.2.0.0
 types-protobuf==4.24.0.4
 typing_extensions==4.8.0
 zeroconf==0.120.0
-asn1crypto==1.4.0
+asn1crypto==1.5.1
 blinker==1.6.3
 certifi==2023.7.22
 charset-normalizer==3.3.1
