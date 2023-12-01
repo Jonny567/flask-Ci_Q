@@ -45,7 +45,7 @@ lxml==4.9.3
 MarkupSafe==2.1.3
 networkscan==1.0.9
 paho-mqtt==1.6.1
-pyOpenSSL==20.0.1
+pyOpenSSL==23.3.0
 python-dateutil==2.8.2
 python-nmap==0.7.1
 python-xlib==0.31
