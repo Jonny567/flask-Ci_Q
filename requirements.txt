@@ -48,7 +48,7 @@ paho-mqtt==1.6.1
 pyOpenSSL==20.0.1
 python-dateutil==2.8.2
 python-nmap==0.7.1
-python-xlib==0.31
+python-xlib==0.33
 requests==2.31.0
 samsungctl==0.7.1
 scapy==2.5.0
